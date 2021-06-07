@@ -1,0 +1,1 @@
+vue sfcs component compiler test!
